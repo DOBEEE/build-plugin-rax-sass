@@ -1,0 +1,11 @@
+*~
+*.swp
+*.log
+
+.DS_Store
+.idea/
+.temp/
+
+node_modules/
+
+template.yml
