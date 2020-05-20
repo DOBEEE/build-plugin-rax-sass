@@ -1,6 +1,6 @@
 {
   "name": "build-plugin-rax-sass",
-  "version": "0.0.1",
+  "version": "0.0.2-beta",
   "description": "rax-ssr 兼容sass的配置插件",
   "main": "lib/index.js",
   "scripts": {
@@ -18,5 +18,9 @@
   "devDependencies": {
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/u404/build-plugin-rax-sass.git"
   }
 }
